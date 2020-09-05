@@ -1,4 +1,4 @@
-### Patch Shopify App
+### Next Static Site Starter
 
 ## Getting Started
 
